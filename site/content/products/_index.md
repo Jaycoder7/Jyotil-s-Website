@@ -8,13 +8,9 @@ description: >-
   projects and many other coding projects. I am currently working on a third engineering project. 
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/solar.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        The Sun Tracking solar panel was my project in 10th grade. The project used First Robotics Competition(FRC) components to track the sun. This proved to be a limitation but we were able to navigate this challenge and get the panel to sucessfully track the sun. The original efficency of the panel was 7% and with our added technology the panel was 11%. This project really motivated me to continue engineering and got me interested in photovoltic technology and electrical work. 
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
