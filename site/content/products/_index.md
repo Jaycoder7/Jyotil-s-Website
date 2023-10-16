@@ -3,8 +3,9 @@ title: My Projects
 type: products
 image: /img/products-jumbotron.jpg
 heading: My Journey
-description: >-
-  I have made many projects over my high school journey. These are the highlights of my projects! I made 2 engineering projects and many other coding projects. I am currently working on a third engineering project. 
+description: >
+  I have made many projects over my high school journey. These are the highlights of my projects! I made 2 engineering projects and many other coding
+projects. I am currently working on a third engineering project. 
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
