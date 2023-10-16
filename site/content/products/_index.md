@@ -4,7 +4,8 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: My Projects
 description: >-
-  I have made many projects over my high school journey. These are the highlights of my projects! I made 2 engineering projects and many other coding projects. I am currently working on a third engineering project. 
+  I have made many projects over my high school journey. These are the highlights of my projects! I made 2 engineering 
+  projects and many other coding projects. I am currently working on a third engineering project. 
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
