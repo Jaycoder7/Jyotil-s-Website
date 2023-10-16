@@ -11,7 +11,6 @@ description: >-
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-    heading: Sun Tracking Solar Panel
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -19,7 +18,6 @@ intro:
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations-coffee-gear.svg
-    heading: Sun Tracking Solar Panel
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
