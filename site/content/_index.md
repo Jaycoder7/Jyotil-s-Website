@@ -3,8 +3,8 @@ title: "Jyotil Agrawal"
 subtitle: Engineer and aspiring Entrepreneur
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Who?
+    text: "I am a senior in high school and an aspiring Engineer and Entrepreneur. I love working with electrical components and I love coding. I aspire to combine my knowledge to be able to create a sucessful business someday."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
