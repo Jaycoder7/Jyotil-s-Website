@@ -1,8 +1,8 @@
 ---
-title: Our Coffee
+title: My Projects
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Sun Tracking Solar Panel
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -11,6 +11,7 @@ description: >-
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
+    heading: Sun Tracking Solar Panel
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -18,6 +19,7 @@ intro:
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations-coffee-gear.svg
+    heading: Sun Tracking Solar Panel
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
