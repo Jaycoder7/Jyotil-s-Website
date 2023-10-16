@@ -10,8 +10,8 @@ intro:
     text: "My first project my sophmore year was this sun tracking solar panel design made to improve efficiency of solar panels. "
 products:
     - image: img/solar.jpg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
+      text: "My project junior year was a lunar rover. My team and I incorporated the sun tracking design into the rover, as well as a moveable 2 joint arm, a collection tray, and rocker bogie design."
+    - image: /img/rover.jpg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: Our values
