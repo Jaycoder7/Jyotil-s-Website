@@ -2,12 +2,9 @@
 title: My Projects
 type: products
 image: /img/products-jumbotron.jpg
-heading: Sun Tracking Solar Panel
+heading: My Journey
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I have made many projects over my high school journey. These are the highlights of my projects! I made 2 engineering projects and many other coding projects. I am currently working on a third engineering project. 
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
