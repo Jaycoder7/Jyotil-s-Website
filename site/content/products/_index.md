@@ -24,13 +24,9 @@ intro:
         the solar panel.
         3. Collection Arm. The arm is used to scoop up samples from the terrain. The arm is a major feature for the rover because it helps bring samples from different     
         planets back to earth. 4. Collection Tray. The collection tray is used to store all the samples that the rover will collect.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/website.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Another project I did is make websites for my internship. I made 4 websites total. 2 are one page redirects to zoom links with some information. The other 2 are the         main website they currently use and the development website used for testing and running the website. This experience helped me learn a lot and expanded my                  knowledge a lot. I learned to build websites and how to manage websites. 
     - image: /img/illustrations-meeting-space.svg
       text: >
         We believe that good coffee has the power to bring people together.
