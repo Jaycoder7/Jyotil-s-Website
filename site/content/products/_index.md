@@ -17,12 +17,13 @@ intro:
       text: > 
         The lunar rover was my project junior year. I made this project along many teamates and this project really allowed me to combine all my skills into one project.   
         This rover had both electrical and pneumatic components. This rover had vision tracking and was all coded in C++. My contribution was coding the whole rover, doing 
-        the electrical and pneumatics, and working with my sub-group of the sun tracking solar panel. The space rover had 4 components: 1. Rocker Bogie chassis. This design 
-        helps the rover travel over rough terrain. The design makes it easy to go over rocks, mountains, and other rough surfaces. 2. Sun Tracking solar panel. This was the 
-        part that I worked on the most. Our team was split into 4 sub departments based on these features and I was part of the sun-tracking solar panel team. This is a 
-        continuation of my project from last year which follows the sun through out the day to maximize the efficiency design of the solar panel.3. Collection Arm. The arm 
-        is used to scoop up samples from the terrain. The arm is a major feature for the rover because it helps bring samples from different planets back to earth. 4. 
-        Collection Tray. The collection tray is used to store all the samples that the rover will collect.
+        the electrical and pneumatics, and working with my sub-group of the sun tracking solar panel. The space rover had 4 components: 
+        1. Rocker Bogie chassis. This design helps the rover travel over rough terrain. The design makes it easy to go over rocks, mountains, and other rough surfaces. 
+        2. Sun Tracking solar panel. This was the part that I worked on the most. Our team was split into 4 sub departments based on these features and I was part of the    
+        sun-tracking solar panel team. This is a continuation of my project from last year which follows the sun through out the day to maximize the efficiency design of    
+        the solar panel.
+        3. Collection Arm. The arm is used to scoop up samples from the terrain. The arm is a major feature for the rover because it helps bring samples from different     
+        planets back to earth. 4. Collection Tray. The collection tray is used to store all the samples that the rover will collect.
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
