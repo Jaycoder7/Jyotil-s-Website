@@ -27,11 +27,4 @@ intro:
     - image: /img/website.png
       text: >
         Another project I did is make websites for my internship. I made 4 websites total. 2 are one page redirects to zoom links with some information. The other 2 are the         main website they currently use and the development website used for testing and running the website. This experience helped me learn a lot and expanded my                  knowledge a lot. I learned to build websites and how to manage websites. 
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
 ---
