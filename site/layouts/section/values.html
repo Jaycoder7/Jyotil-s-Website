@@ -1,43 +1,17 @@
-<div class="content">
+{{ define "main" }}
 
-			<section id="intro" style="padding-top: 1.25em;">
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-				<p style="margin-top: 0px;">
-					<span style="opacity: 1; font-size: 1.5em; float: left;">About Me</span>
-					<button id="menu_return" class="icon-menu" style="display: inline-block; opacity: 1;"><span style="opacity: 1; font-size: 1.5em; float: left;">About Me</span></button>
-				</p>
+<div class="mw7 center ph3 pt4">
 
-			</section>
+  {{ range $index, $element := .Params.values }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block-reverse" $element }}
+    {{ end }}
+  {{ end }}
 
-			<div id="section_portal" style="opacity: 1;"><section id="about">
+</div>
 
-	
-	<p>If you're just curious about my story, or you just want to grab my résumé, you're in the right spot.</p>
-
-	<nav id="about_nav">
-
-		<a href="story" id="story" class="badge_link icon-news">
-			<span class="ribbon">
-				<span class="ribbon-stitches-top"></span>
-				<strong class="ribbon-content">
-					<span class="link_title">My Story</span>
-				</strong>
-				<span class="ribbon-stitches-bottom"></span>
-			</span>
-		</a>
-
-		<a href="https://josephpayton.com/resume/joe-payton-resume-1-2014.pdf" id="resume" class="badge_link icon-note newWindow">
-			<span class="ribbon">
-				<span class="ribbon-stitches-top"></span>
-				<strong class="ribbon-content">
-					<span class="link_title">My Résumé</span>
-				</strong>
-				<span class="ribbon-stitches-bottom"></span>
-			</span>
-		</a>
-
-	</nav>
-
-</section></div>
-
-		</div>
+{{ end }}
