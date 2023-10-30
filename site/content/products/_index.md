@@ -23,7 +23,7 @@ intro:
         sun-tracking solar panel team. This is a continuation of my project from last year which follows the sun through out the day to maximize the efficiency design of    
         the solar panel.
         3. Collection Arm. The arm is used to scoop up samples from the terrain. The arm is a major feature for the rover because it helps bring samples from different     
-        planets back to earth. 4. Collection Tray. The collection tray is used to store all the samples that the rover will collect.
+        planets back to earth. 4. Collection Tray. The collection tray is used to store all the samples that the rover will collect. Here is a video of project in motion: https://youtu.be/QVWDXtHo5mw
     - image: /img/website.png
       text: >
         Another project I did is make websites for my internship. I made 4 websites total. 2 are one page redirects to zoom links with some information. The other 2 are the         main website they currently use and the development website used for testing and running the website. This experience helped me learn a lot and expanded my                  knowledge a lot. I learned to build websites and how to manage websites. 
