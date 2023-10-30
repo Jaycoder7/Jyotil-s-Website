@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: /img/about-jumbotron.jpg
+image: /img/bg.png
 values:
   - heading: "Shade-grown coffee"
     text: >
